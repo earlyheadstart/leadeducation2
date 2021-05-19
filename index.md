@@ -1,10 +1,10 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Lead Prevention for LA Familes
+  UCLA Institute of the Environment and Sustainability | Senior Practicum Team 2020-21
+feature_image: "https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg"
+excerpt: "See more info about our project: [Assessment of cumulative lead exposure in Los Angeles children](https://www.ioes.ucla.edu/project/assessment-of-cumulative-lead-exposure-in-los-angeles-children/)"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
