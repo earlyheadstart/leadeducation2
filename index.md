@@ -7,9 +7,9 @@ feature_image: " "
 excerpt: "See more info about our project: [Assessment of cumulative lead exposure in Los Angeles children](https://www.ioes.ucla.edu/project/assessment-of-cumulative-lead-exposure-in-los-angeles-children/)"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+See more info about our project: [Assessment of cumulative lead exposure in Los Angeles children](https://www.ioes.ucla.edu/project/assessment-of-cumulative-lead-exposure-in-los-angeles-children/)
 
-{% include button.html text="UCLA IOES" link="https://www.ioes.ucla.edu/wp-content/themes/ioes/images/ucla-ioes-logo.svg" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="UCLA IOES" link="https://www.ioes.ucla.edu/wp-content/themes/ioes/images/ucla-ioes-logo.svg" color="#0366d6" %}  
 
 ## Features
 
