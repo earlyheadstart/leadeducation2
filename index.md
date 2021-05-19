@@ -1,8 +1,8 @@
 ---
-title: About Alembic
+title: About
 feature_text: |
   ## Lead Prevention for LA Familes
-  UCLA Institute of the Environment and Sustainability | Senior Practicum Team 2020-21
+  UCLA Institute of the Environment and Sustainability | Practicum Project 2020-21
 feature_image: "https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg"
 excerpt: "See more info about our project: [Assessment of cumulative lead exposure in Los Angeles children](https://www.ioes.ucla.edu/project/assessment-of-cumulative-lead-exposure-in-los-angeles-children/)"
 ---
