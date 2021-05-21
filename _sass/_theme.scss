@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 100%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -23,7 +23,7 @@ body {
     position: fixed;
     width: 100%;
     background: white;
-    height: 85px;
+    height: 105px;
   }
   .logo {
     @include flex(0 0 auto);
