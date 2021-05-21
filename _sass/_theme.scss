@@ -21,6 +21,9 @@ body {
   .nav {
     text-align: right;
     position: fixed;
+    width: 100%;
+    background: white;
+    height: 85px;
   }
   .logo {
     @include flex(0 0 auto);
