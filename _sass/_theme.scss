@@ -20,14 +20,6 @@ body {
 .footer {
   .nav {
     text-align: center;
-    position: fixed;
-    width: 100%;
-    top:0;
-    background: white;
-    height: 105px;
-  }
-  .logo {
-    @include flex(0 0 auto);
   }
   .container {
     @include flexbox;
