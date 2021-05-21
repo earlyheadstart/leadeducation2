@@ -19,9 +19,10 @@ body {
 .header,
 .footer {
   .nav {
-    text-align: right;
+    text-align: center;
     position: fixed;
     width: 100%;
+    top:0;
     background: white;
     height: 105px;
   }
